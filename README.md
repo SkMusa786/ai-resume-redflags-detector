@@ -241,7 +241,7 @@ npm start
 
 ### Demo Video
 
-🎬 [Watch Demo Video](https://youtu.be/demo-video-link)
+🎬 [Watch Demo Video](https://drive.google.com/file/d/1NXQDDVuYniGteIDa2cFW4fqmCv3bLOn5/view?usp=drivesdk)
 
 ### Live Demo
 
@@ -329,7 +329,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Email**: support@resumescanner.ai
+- **Email**: shaikmusa3690@gmail.com
 - **Website**: [https://ai-resume-detector.vercel.app](https://ai-resume-detector.vercel.app)
 - **GitHub Issues**: [Report a bug](https://github.com/yourusername/ai-resume-red-flags-detector/issues)
 - **Documentation**: [View Full Docs](https://docs.resumescanner.ai)
